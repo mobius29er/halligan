@@ -40,7 +40,7 @@ dev = [
   # strings that 0.8 left alone — so the local hook passed and CI failed on
   # a file the hook had just approved. Bump this and the pre-commit rev in
   # the same commit.
-  "ruff==0.16.3",
+  "ruff==0.16.4",
   "python-dotenv>=1.0",
 ]
 
